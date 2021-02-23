@@ -1,0 +1,11 @@
+# Directory
+./vscode
+./build
+./__pycache__
+
+# File
+*.bmp
+*.png
+*.tiff
+*.gif
+*.pgm
